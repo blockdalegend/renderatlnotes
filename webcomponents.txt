@@ -1,0 +1,12 @@
+examples of web components:
+https://modelviewer.dev/
+https://www.webcomponents.org/introduction
+
+what makes a web components:
+custom element, shadown dom, html template
+
+custom element:
+custom elements must contain hyphen
+class object that defines the behavior
+what ever built in elements that are extended
+

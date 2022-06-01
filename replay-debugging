@@ -1,0 +1,13 @@
+Slide deck for presentation: 
+https://slides.com/ceceliamartinez/debugging-react-applications#/24
+
+Replay.io tool:
+https://app.replay.io
+
+Replay.io examples: 
+https://docs.replay.io/docs/examples-d25ae319114e4d109022458cd47f38ec
+
+Component Render docs:
+https://beta.reactjs.org/learn/render-and-commit
+
+misunderstanding lifecycle of component rendering causes lots of bugs. 
