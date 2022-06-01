@@ -10,3 +10,35 @@ custom elements must contain hyphen
 class object that defines the behavior
 what ever built in elements that are extended
 
+shadown dom:
+virtual dom updated by elements
+
+html template:
+used to define the layout of the custom element
+
+webcomponents sandbox:
+https://webcomponents.dev/
+
+Guides for creating web components:
+https://open-wc.org/
+
+open-wc component generator cli:
+https://open-wc.org/docs/development/generator/
+
+you can publish a webcomponent through the web browser
+
+Web Components Blog Series
+
+https://dwane.in/vonage
+My Website
+
+https://lifelong.dev
+Check out our APIs:
+
+https://developer.vonage.com
+€10 Vonage coupon code:
+
+22EGTRAJ
+Redeem in your account:
+
+https://dashboard.nexmo.com/coupons
